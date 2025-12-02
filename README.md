@@ -51,12 +51,6 @@ This report explores:
 
 4.] Basic Charts/Graphs created using Word or survey analytics – for visual representation of findings
 
-📂 Project Structure
-.
-├── data/                # Survey responses or supporting data (if included)
-├── report/              # Final research report (Word/PDF)
-└── README.md            # Project documentation
-
 📌 Additional Pointers
 
 1.] This project is designed for academic and introductory research purposes.
